@@ -1,16 +1,13 @@
 const CONFIG = {
     titleWeb: "Gửi cậu gì đáng yêu",
-    introTitle: 'Lan Anh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    introTitle: 'He luu cậu!',
+    introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.`,
+    btnIntro: 'OK',
+    title: 'Cậu thích tớ có phải không nào ._.',
+    desc: 'Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v ',
+    btnYes: 'Yêu ơi là yêu <3',
+    btnNo: 'Cậu mơ à',
+    question: 'TTớ biết mà ^^ Yêu cậu 300.000',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
